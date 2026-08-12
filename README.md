@@ -1,12 +1,6 @@
 <div align="center">
 
-```
- __  __    _    ____   ____ _   _    _    _   _  ____ _____ ____  
-|  \/  |  / \  / ___| / ___| | | |  / \  | \ | |/ ___| ____|  _ \ 
-| |\/| | / _ \| |     | |   | |_| | / _ \ |  \| | |  _|  _| | |_) |
-| |  | |/ ___ \ |___  | |___|  _  |/ ___ \| |\  | |_| | |___|  _ < 
-|_|  |_/_/   \_\____|  \____|_| |_/_/   \_\_| \_|\____|_____|_| \_\
-```
+<img width="541" height="372" alt="Screenshot 2026-08-11 at 9 35 03 PM" src="https://github.com/user-attachments/assets/05305482-21b6-4e97-ae4b-c0083c2a280b" />
 
 ### automatic MAC address rotation for pentest engagements & lab environments
 
@@ -24,7 +18,6 @@
 <div align="center">
 <br>
 
-<img width="541" height="372" alt="Screenshot 2026-08-11 at 9 35 03 PM" src="https://github.com/user-attachments/assets/05305482-21b6-4e97-ae4b-c0083c2a280b" />
 
 ## Why
 
